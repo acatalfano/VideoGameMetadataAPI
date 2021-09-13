@@ -1,0 +1,10 @@
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.deps.json
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.AssemblyInfo.cs
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Model\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.csproj.AssemblyReference.cache

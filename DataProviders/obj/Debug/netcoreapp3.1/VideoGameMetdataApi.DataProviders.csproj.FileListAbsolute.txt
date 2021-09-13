@@ -1,0 +1,17 @@
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.deps.json
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.AssemblyInfo.cs
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.csproj.CopyComplete
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.DataProviders.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\DataProviders\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.pdb

@@ -1,0 +1,17 @@
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.deps.json
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.AssemblyInfo.cs
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.csproj.CopyComplete
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Services\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Services.pdb

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommunicationModel\VideoGameMetadataApi.CommunicationModel.csproj" />
+    <ProjectReference Include="..\Core\VideoGameMetdataApi.Utilities.csproj" />
+    <ProjectReference Include="..\DataProviders\VideoGameMetdataApi.DataProviders.csproj" />
+    <ProjectReference Include="..\Services\VideoGameMetadataApi.Services.csproj" />
+    <ProjectReference Include="..\VideoGameMetadataApi.Core\VideoGameMetadataApi.Core.csproj" />
+  </ItemGroup>
+
+
+</Project>

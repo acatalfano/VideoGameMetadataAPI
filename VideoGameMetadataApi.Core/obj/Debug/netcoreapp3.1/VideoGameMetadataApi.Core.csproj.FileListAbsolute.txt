@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.deps.json
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.AssemblyInfo.cs
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\obj\Debug\netcoreapp3.1\VideoGameMetadataApi.Core.csproj.CopyComplete
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\VideoGameMetadataApi.Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.pdb

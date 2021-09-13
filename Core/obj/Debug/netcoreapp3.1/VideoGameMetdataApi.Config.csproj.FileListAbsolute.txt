@@ -1,0 +1,15 @@
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.deps.json
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.CommunicationModel.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.csproj.AssemblyReference.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.AssemblyInfo.cs
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.csproj.CopyComplete
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\obj\Debug\netcoreapp3.1\VideoGameMetdataApi.Config.pdb
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.dll
+C:\Users\Adam\source\repos\VideoGameMetadataAPI\Core\bin\Debug\netcoreapp3.1\VideoGameMetadataApi.Model.pdb
